@@ -1,6 +1,5 @@
 index.html
-revo/
+revo/*
 !revo/plo.css
-revo/plo.css.map
 README.md
 css/
