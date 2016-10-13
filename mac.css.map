@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "file": "mac.css",
+  "sources": [
+    "mac.scss",
+    "_additional.scss"
+  ],
+  "sourcesContent": [],
+  "mappings": ";ACAA,IAAI,CAAA;EACF,WAAW,EAAE,GAAI;EACjB,SAAS,EAAE,KAAM;EACjB,cAAc,EAAE,SAAU;EAC1B,UAAU,EAAE,MAAO,GAJhB;;;ADCL,IAAI,CAAA;EACF,KAAK,EAAE,SAAU,GADd",
+  "names": []
+}
